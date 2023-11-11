@@ -4,7 +4,6 @@
 - [Requisitos 📋](#requisitos-)
 - [Librerías 📚](#librerías-)
 - [Uso 🚀](#uso-)
-- [Colaboradores 👥](#colaboradores-)
 
 ## Descripción
 Este es un proyecto creado para el evento GoogleExploreCSR, en donde se buscó utilizar la inteligencia artificial en proyectos donde los visitantes se diviertan.
